@@ -4,7 +4,7 @@ import os
 import numpy as np
 
 
-dataset_path = "face-recognition\images"  # Replace this with your actual path
+dataset_path = "face-recognition\Face-Recognition-Project\images"  # Replace this with your actual path
 
 # Function to load images and extract facial encodings
 def load_images_and_encodings(folder):
